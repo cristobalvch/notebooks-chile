@@ -1,3 +1,6 @@
+## IMPORTANT!!: This Project is not being maintained Anymore
+
+
 Analizar  y Comparar Ofertas de Notebooks de Falabella y Pc Factory
 
 Metodos Utilizados:
